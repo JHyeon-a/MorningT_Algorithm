@@ -22,7 +22,7 @@ public class Main {
 
 		int res = 1; // 정사각형의 한 변의 길이
 		int min = N > M ? M : N; // N과 M 중 작은 값
-		for (int l = 1; l < min; l++) { // 정사각형의 크기
+		for (int l = 1; l < min; l++) { // 정사각형의 크기 -> 1부터 아닌 min-1부터 시작하면 반복문을 덜 돌릴 수 있다.
 			loop1: for (int i = 0; i < N - l; i++) { // [i]
 				for (int j = 0; j < M - l; j++) { // [j]
 					int cnt = 1; // [i][j]와 값이 같은 정사각형의 꼭짓점 개수
