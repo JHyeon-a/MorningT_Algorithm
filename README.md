@@ -1,4 +1,6 @@
 # MorningT_Algorithm
+## spreadsheet!!
+https://docs.google.com/spreadsheets/d/1BYuk9BSbCMaQMxlTH1KwuybBUtvUZ_iE0AHPnmSXBsI/edit#gid=337836367
 #### SSAFY 10th 서울 7반의 알고리즘 스터디 아침에 T타임
 ***
 ## 1. 스터디 소개
